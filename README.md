@@ -1,5 +1,5 @@
-<h1 align="center">Oi 👋, Eu sou o Thomas N.P. da Costa</h1>
-<h3 align="center">Um futuro analista de dados</h3>
+<h1 align="center">Oi 👋, Eu sou o Thomas Passos</h1>
+<h3 align="center">Desenvolvedor Web</h3>
 
 - 🔭 Eu estou cursando Economia na **Universidade Federal de Juiz de Fora**
 
